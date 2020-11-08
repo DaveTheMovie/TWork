@@ -11,4 +11,4 @@ from MySum import MySum
 
 
 test_MySum():
-    assert(Mysum(1,2)==3)
+    assert(MySum.MySum(1,2)==3)
